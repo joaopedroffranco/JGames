@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Call of Duty",
+		"first_release_date": 1532466570,
+		"platforms": [
+			{ "name": "PC" },
+			{ "name": "PS5" }
+		],
+		"genres": [
+			{ "name": "Strategy" },
+			{ "name": "Shooting" }
+		],
+		"summary": "This is a quick summary",
+		"total_rating": 70.2,
+		"total_rating_count": 100,
+		"screenshots": [
+			{ "image_id": "1" },
+			{ "image_id": "2" },
+			{ "image_id": "3" }
+		]
+    }
+]
