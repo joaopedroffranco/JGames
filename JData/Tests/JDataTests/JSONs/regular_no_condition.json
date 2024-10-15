@@ -1,0 +1,74 @@
+{
+	"location": {
+		"name": "Amsterdam",
+		"region": "North Holland",
+		"country": "Netherlands",
+		"lat": 52.36,
+		"lon": 4.86,
+		"tz_id": "Europe/Amsterdam",
+		"localtime_epoch": 100,
+		"localtime": "2024-09-25 16:59"
+	},
+	"current": {
+		"last_updated_epoch": 1727275500,
+		"last_updated": "2024-09-25 16:45",
+		"temp_c": 17.3,
+		"temp_f": 63.1,
+		"is_day": 1,
+		"wind_mph": 5.1,
+		"wind_kph": 8.3,
+		"wind_degree": 181,
+		"wind_dir": "S",
+		"pressure_mb": 1001.0,
+		"pressure_in": 29.56,
+		"humidity": 72,
+		"cloud": 25,
+		"feelslike_c": 16.3,
+		"feelslike_f": 63.1,
+		"windchill_c": 13.3,
+		"windchill_f": 56.0,
+		"heatindex_c": 13.7,
+		"heatindex_f": 56.7,
+		"dewpoint_c": 12.3,
+		"dewpoint_f": 54.2,
+		"vis_km": 10.0,
+		"vis_miles": 6.0,
+		"uv": 3.0,
+		"gust_mph": 8.2,
+		"gust_kph": 13.2
+	},
+	"forecast": {
+		"forecastday": [
+			{
+				"date": "2024-09-25",
+				"date_epoch": 1727222400,
+				"day": {
+					"maxtemp_c": 15.8,
+					"maxtemp_f": 60.5,
+					"mintemp_c": 13.0,
+					"mintemp_f": 55.5,
+					"avgtemp_c": 13.9,
+					"avgtemp_f": 57.0,
+					"maxwind_mph": 11.4,
+					"maxwind_kph": 18.4,
+					"totalprecip_mm": 4.84,
+					"totalprecip_in": 0.19,
+					"totalsnow_cm": 0.0,
+					"avgvis_km": 7.0,
+					"avgvis_miles": 4.0,
+					"avghumidity": 84,
+					"daily_will_it_rain": 1,
+					"daily_chance_of_rain": 95,
+					"daily_will_it_snow": 0,
+					"daily_chance_of_snow": 0,
+					"condition": {
+						"text": "Patchy rain nearby",
+						"icon": "//cdn.weatherapi.com/weather/64x64/day/176.png",
+						"code": 1063
+					},
+					"uv": 2.0
+				}
+			}
+		]
+	}
+}
